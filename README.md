@@ -115,4 +115,6 @@ The MVC and WebForms web apps allow either to connect to the real database to ge
 
 For each application, the option to select one or the other mode can be configured in the docker-compose.override.yml file when using Windows Containers or at the `Web.config` file when you still are NOT using Containers (original versions).
 
+# eShopModernizing
+Initial content for the repository.
 
